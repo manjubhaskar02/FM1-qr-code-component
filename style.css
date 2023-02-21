@@ -1,0 +1,20 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+/* 
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%) */
+.light-gray{
+color: hsl(212, 45%, 89%) ;
+}
+.grayish-blue{
+ color:hsl(220, 15%, 55%)  ;   
+}
+.dark-blue{
+    color:hsl(218, 44%, 22%) ;
+}
+.outfit{
+    font-family: outfit;
+}
